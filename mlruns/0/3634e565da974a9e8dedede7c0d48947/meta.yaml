@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Vishu%20Saini/Documents/Upskilling/Projects/MLProject/mlruns/0/3634e565da974a9e8dedede7c0d48947/artifacts
+end_time: 1706609986896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3634e565da974a9e8dedede7c0d48947
+run_name: luxuriant-rat-173
+run_uuid: 3634e565da974a9e8dedede7c0d48947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706609983341
+status: 3
+tags: []
+user_id: root
